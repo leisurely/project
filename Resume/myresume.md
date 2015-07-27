@@ -25,14 +25,14 @@ body{	width:825px;font-size:16px;  }
 	</tr>
 	<tr>
 		<td>邮箱</td>
-		<td><a href="mailto:maxincheng_bfs@126.com" title="mail to me">maxincheng_bfs@126.com</a></td>
+		<td><a href="mailto:macheng89@sina.com" title="mail to me">macheng89@sina.com</a></td>
 		<td>联系方式</td>
 		<td>18813046203</td>
 	<tr>
 </table>
 </div>
 <div style="float:right;width:125px;">
-<img src="./mypic.jpg" style="margin:15px 0;width:123px;">
+<img src="./mypicture.jpg" style="margin:15px 0;width:123px;">
 </div>
 </div>
 
@@ -56,20 +56,28 @@ body{	width:825px;font-size:16px;  }
 	</tr>
 </table>
 ## 综合技能
+【<strong>熟练的语言</strong>】：脚本语言包括R，Matlab，PHP，编译语言包括C/C++，JAVA，硬件描述语言VHDL，Verilog
 
-【<strong>熟练的语言</strong>】：脚本语言包括R，Matlab，PHP，编译语言包括C/C++，JAVA等。  
 【<strong>专向能力</strong>】：
+
 <ol>
 	<li>数据挖掘分析能力</li>  
-熟练R语言进行数据挖掘分析，熟悉神经网络，半监督聚类算法，了解粒子群，蚁群，遗传算法等参数优化算法。
+能够熟练使用R语言进行数据挖掘，熟悉BP神经网络，半监督聚类，主动学习算法。了解粒子群，蚁群，遗传算法等参数优化算法。
 	<li>Web开发能力</li>
-语言包括HTML5，CSS3，Javascript（jQuery），页面渲染框架Bootstrap，开发环境LAMP和windows+eclipse+tomcat。 
+语言包括HTML5，CSS3，Javascript（jQuery），页面渲染框架Bootstrap，熟练使用数据可视化工具Echarts和Finereport与PHP或JSP结合实现数据动态显示。 
 	<li>安卓应用开发</li>
-熟悉Android应用开发环境eclipse+SDK+ADT。
+熟悉Android应用开发框架，熟练安卓客户端交互界面应用开发，了解服务端服务开发。
+	<li>嵌入式系统开发</li>
+熟悉单片机结构功能，常用芯片时序操作熟练。了解FPGA的基本结构,能够借助仿真工具（没有实际硬件开发经验）进行项目开发。
 </ol>
-【<strong>熟练算法</strong>】：神经网络，半监督聚类。
-【<strong>熟悉工具</strong>】：eclipse，Rstudio，Matlab
+
+【<strong>熟悉工具</strong>】：数据挖掘：Rstudio，Matlab；应用开发：eclipse，VS2010；嵌入式开发：Keil 3、QuartusII
+
 【<strong>英语水平</strong>】：CET-6，能够熟练查找、阅读英文技术文档。
+
+【<strong>文档撰写</strong>】：丰富的基金申请材料、竞赛研究报告材料的撰写经验
+
+【<strong>兴趣爱好</strong>】：足球、篮球、象棋
 
 ## 主要项目经历
 
@@ -88,31 +96,33 @@ body{	width:825px;font-size:16px;  }
 		<div>【<strong>本人工作</strong>】本人在该项目中负责整体结构设计和项目具体实施。
 			<ol style="margin:0px;">
 				<li>整理系统开发需求及完成系统设计。</li>
-				<li>分析soundtouch开源音频处理算法，修改代码为音频流处理方式。利用audiotrack接口完成音频流采集及播放。</li>
+				<li>分析soundtouch开源音频处理算法，在开源代码基础上进行二次开发。利用AudioRecord接口完成音频流采集，借助AudioStruck完成音频流播放。</li>
 			</ol>
 		</div>
 	</div>
 </div>
+
 <div style="width:100%;margin:25px 0;">
 	<div style="width:100%;height:30px;">
 		<div style="float:left;font-weight:bold;">
 		网络安全策略预演管理平台
 		</div>
 		<div style="float:right;font-weight:bold;">
-		2014.09-2015.12
+		2014.09-2014.12
 		</div>
 	</div>
 	<div>
 		<div>【<strong>项目描述</strong>】管理多子网络之间的安全等级策略，及动态调整。</div>
-		<div>【<strong>开发环境</strong>】windos+Dreamweaver</div>
-		<div>【<strong>本人工作</strong>】本人在该项目中负责以boostrap+jquery框架下完成前端展示。
+		<div>【<strong>开发环境</strong>】windows+Dreamweaver</div>
+		<div>【<strong>本人工作</strong>】本人在该项目中负责以bootstrap+jquery框架下完成前端展示。
 			<ol style="margin:0px;">
 				<li>作为参与人主要进行了前端展示框架结构及css修改。</li>
-				<li>主要负责通过和服务端数据的前端展示。</li>
+				<li>主要负责通过和服务端数据的前端展示。主要借助于echarts实现数据的动态展示。</li>
 			</ol>
 		</div>
 	</div>
 </div>
+
 <div style="width:100%;margin:25px 0;">
 	<div style="width:100%;height:30px;">
 		<div style="float:left;font-weight:bold;">
@@ -128,11 +138,12 @@ body{	width:825px;font-size:16px;  }
 		<div>【<strong>本人工作</strong>】本人在该项目中负责整体结构设计和项目具体实施。
 			<ol style="margin:0px;">
 				<li>作为项目组负责人，负责整体项目整体结构、模块划分及模块接口设计。</li>
-				<li>负责模块功能实现，和数据存储实现。</li>
+				<li>利用TrafficStats获取数据流量信息，通过wireshark找取流经无线路由的数据包实现联网行为监控。</li>
 			</ol>
 		</div>
 	</div>
 </div>
+
 <div style="width:100%;margin:25px 0;">
 	<div style="width:100%;height:30px;">
 		<div style="float:left;font-weight:bold;">
@@ -145,16 +156,16 @@ body{	width:825px;font-size:16px;  }
 	<div>
 		<div>【<strong>项目描述</strong>】此项目为河北科技大学大学生科技创新项目，主要完成地窖等人员参与受限地区的温度监控。主要涉及芯片操作有：单片机AT89C52、温度传感器DS18B20、无线射频芯片nRF24L01、液晶显示器LCD1602</div>
 		<div>【<strong>开发环境</strong>】操作系统Windows，工具：keil 3 + STC-ISP.exe</div>
-		<div>【<strong>本人工作</strong>】完成系统设计及实现
+		<div>【<strong>本人工作</strong>】负责系统设计及实现
 			<ol style="margin:0px;">
 				<li>作为项目组负责人，负责整体项目整体结构、模块划分及模块接口设计</li>
-				<li>工作分配个人完成软件编写及调试，其他人完成硬件设计及制板。</li>
+				<li>本人完成软件编写（C语言）及调试，包括温度采集，温度信息无线传输和接收，液晶显示等多个模块的编写及联调。</li>
 			</ol>
 		</div>
 	</div>
 </div>
 
-##   社会实践
+##   实践活动
 
 <div style="width:100%;margin:15px 0;">
 	<div style="width:100%;height:30px;">
@@ -175,7 +186,7 @@ body{	width:825px;font-size:16px;  }
 	</div>
 	<div style="width:100%;height:30px;">
 		<div style="float:left;">
-		【<strong>实验室文化</strong>】组织实验室秦皇岛两日游
+		【<strong>实验室文化</strong>】以组织者身份组织实验室秦皇岛两日游
 		</div>
 		<div style="float:right;">
 		2014.06
