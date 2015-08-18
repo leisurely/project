@@ -32,7 +32,7 @@ body{	width:825px;font-size:16px;  }
 </table>
 </div>
 <div style="float:right;width:125px;">
-<img src="./mypicture.jpg" style="margin:15px 0;width:123px;">
+<img src="./mypicture.jpg" style="margin:15px 0;width:110px;">
 </div>
 </div>
 
@@ -129,7 +129,7 @@ body{	width:825px;font-size:16px;  }
 		安卓流量及网络行为监控系统
 		</div>
 		<div style="float:right;font-weight:bold;">
-		2014.05-2015.08
+		2014.05-2014.08
 		</div>
 	</div>
 	<div>
